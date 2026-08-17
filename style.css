@@ -1,1 +1,109 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
+body {
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+    background: #f4f4f4;
+    color: #222;
+    transition: 0.3s;
+}
+
+header {
+    text-align: center;
+    padding: 30px 15px;
+    background: white;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.12);
+}
+
+h1 {
+    color: #6c00ff;
+    margin-bottom: 20px;
+    font-size: 32px;
+}
+
+#darkModeBtn {
+    border: none;
+    border-radius: 25px;
+    padding: 12px 20px;
+    background: #222;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+.channel {
+    border: none;
+    border-radius: 15px;
+    padding: 25px 10px;
+
+    background: linear-gradient(
+        135deg,
+        #6c00ff,
+        #9d00ff
+    );
+
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.channel:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(108, 0, 255, 0.3);
+}
+
+.channel:active {
+    transform: scale(0.96);
+}
+
+/* DARK MODE */
+
+body.dark {
+    background: #101010;
+    color: white;
+}
+
+body.dark header {
+    background: #1b1b1b;
+}
+
+body.dark #darkModeBtn {
+    background: white;
+    color: #111;
+}
+
+/* MOBILE */
+
+@media (max-width: 600px) {
+
+    main {
+        grid-template-columns: repeat(2, 1fr);
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    .channel {
+        padding: 22px 5px;
+        font-size: 15px;
+    }
+}
