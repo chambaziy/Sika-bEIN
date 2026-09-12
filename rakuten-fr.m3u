@@ -285,7 +285,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12780&avod=1&coppa=0&td=6&
 
 
 #EXTINF:-1 tvg-id="T18" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",T18
-https://live.eu-north-1a.cf.dmcdn.net/sec2(4gbZs-ptm05UIPvpItF535pJTP5UMWOL_ubg9f4yYVug7NzLkOmqAohZpMibLcDxU300CzpQ2DL7qH0spy3CUzBgtFJlGyLsxYQle9Dh3HUYs5Y47tLiUKaJ7ibS-EfA)/dm/3/x9jhhyc/d/live-380.m3u8#cell=lcf-eu-north-1a
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 tvg-id="TF1" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 tvg-id="M6" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",M6
@@ -344,6 +344,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",TV MONACO
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",C STAR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",TV5 MONDE VOYAGE
+https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="RakutenTV-UK_cgtn-global-biz" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1869dc72-ca6d-4f46-b1ff-85d1aef818fa.jpeg" group-title="RakutenTV🇬🇧: News",CGTN Global Biz
