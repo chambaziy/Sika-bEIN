@@ -299,7 +299,7 @@ http://151.80.18.177:86/Canal+_HD/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusCinema" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",CANAL+ CINEMA
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",ARTE
-https://tvradiozap.eu/640
+http://151.80.18.177:86/ARTE_HD/index.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",PARIS PREMIERE
 http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 #EXTINF:-1 tvg-id="AB1" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",AB1
