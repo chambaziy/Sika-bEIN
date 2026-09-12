@@ -299,7 +299,7 @@ http://151.80.18.177:86/Canal+_HD/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusCinema" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",CANAL+ CINEMA
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",ARTE
-http://151.80.18.177:86/ARTE_HD/index.m3u8
+https://tvradiozap.eu/640
 #EXTINF:-1 tvg-id="ParisPremiere" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",PARIS PREMIERE
 http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
 #EXTINF:-1 tvg-id="AB1" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",AB1
@@ -374,6 +374,40 @@ https://live-cdn-bfmtvmar-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",TV Vendée
 https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCEw9gcSDo-LlC0ci60bl-Rg.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",TV7 Bordeaux
+https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCV9yrdAfyd1BdDyd4tDdVxg.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",Au coeur du danger
+https://d2n1sxwoprdpda.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mu1qde0x8hs1m/AuCoeurDuDanger_FR.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",Crime Enquêtes & Faits divers
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15081
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",Crime Scene
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99994448
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",Docs & Enquêtes Society+
+https://d1nvn92ps192dc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-xeveldck6gfqd/v1/channel/ch-3-docs-enqu-tes-by-society/hls.m3u8?ads.ads_cdn=cf&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.consent=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=FR15000010E&ads.ssai_vendor=SSSLIVE&pb_type=pb-xeveldck6gfqd_cloudfront
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",Mayday Catastrophes Aériennes
+https://amg01821-amg01821c40-rakuten-fr-10668.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-maydaycatastropheaeriennefr-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",Mission Intervention
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15226
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",C'est pas Sorcier
+https://amg30706-amg30706c2-amgplt0145.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg30706-amg30706c2-amgplt0145/playlist.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",Epicurieux
+https://d1dzvywp5tcxbn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ryq1as86j3gxc/epic.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",Futura 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10243
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",SCIENCE&VIE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10027
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",SCIENCE&VIE 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10058
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",Incroyables fortunes
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15225
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",RMC J'irai dormir chez vous
+https://dltlq2xit8olv.cloudfront.net/m1/media.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",TVD SUISSE
+https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",SAVOIR MEDIA
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",TCM CANADA
+https://teleculturelle.vedge.infomaniak.com/livecast/teleculturelle/master.m3u8
 
 
 
