@@ -348,6 +348,33 @@ https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",TV5 MONDE VOYAGE
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",ARTE VOYAGE
+https://d3223vg0o80ccf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xn2vfltkhli08/Invitationauvoyage_FR.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",BX1 BE
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",NOOVO CINEMA
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",BOX DRAMA
+https://dbhl9xt4ay3lq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-el0y7yl75ynke/bodrm.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",BOX THRILLERS
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15046
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",B SMART
+https://tvradiozap.eu/tools/cof-m3u8.php/dm/x7tn4fp.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",BORDO
+https://e-tv.digicomedia.net:3730/stream/play.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",LYON CAPIYAL
+https://tvradiozap.eu/tools/cof-m3u8.php/dm/x7z3zqa.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",Maurienne TV
+https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",Destination Nature
+https://d2cl8wi5f8zf1j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ay35jkybhd8m/DestinationNature_FR.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",BFM Marseille Provence
+https://live-cdn-bfmtvmar-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",TelePaese
+https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+#EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",TV Vendée
+https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCEw9gcSDo-LlC0ci60bl-Rg.m3u8
+
 
 
 
