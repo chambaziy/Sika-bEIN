@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,ENTV 8
+http://ar.ycncdn.online/live/090/index.m3u8
 #EXTINF:-1,Al Arabiya Programs
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1,Al Jazeera Documentary
