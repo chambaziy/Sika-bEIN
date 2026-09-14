@@ -7,6 +7,10 @@ https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1,Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1,DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526-b/dwstream103/stream05/streamPlaylist.m3u8
+#EXTINF:-1,Alaraby
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8
 #EXTINF:-1,Alaraby 2
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_source/chunks.m3u8
 #EXTINF:-1,Alrayan Elquadim
@@ -17,12 +21,47 @@ https://ktvlive.online/stream/hls/ch3.m3u8
 https://fast.kwikmotion.com/roya/big_world/playlist.m3u8
 #EXTINF:-1,Roya documentry
 https://fast.kwikmotion.com/roya/documentaries/playlist.m3u8
+#EXTINF:-1,Rt Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
+#EXTINF:-1,KTV Documentry
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1,KSA Thaqafeyyah
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/manifest/audio1/192kbps/audio.m3u8
 #EXTINF:-1,4teen Doc
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1,Persiana Docs
 https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1,Persiana Travel
 https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Rasd TV sd
+https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8
+#EXTINF:-1,Oman Culture
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2700000_t64MTA4MHA=.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
