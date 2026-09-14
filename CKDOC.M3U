@@ -2,11 +2,15 @@
 #EXTINF:-1,Al Arabiya Programs
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1,Al Jazeera Documentary
-https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+https://qmcconnect.qa/api/stream/ajd/01.m3u8
 #EXTINF:-1,Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1,Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1,Alaraby 2
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_source/chunks.m3u8
+#EXTINF:-1,Alrayan Elquadim
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
 #EXTINF:-1,Karbala Documentary
 https://ktvlive.online/stream/hls/ch3.m3u8
 #EXTINF:-1,Roya Big World
@@ -19,3 +23,6 @@ https://ch14.tv/live/ch4teendoc/playlist.m3u8
 https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1,Persiana Travel
 https://ptravelhls.persiana.live/hls/stream.m3u8
+
+
+
