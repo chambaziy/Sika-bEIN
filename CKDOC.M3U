@@ -2,7 +2,7 @@
 #EXTINF:-1,Al Arabiya Programs
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1,Al Jazeera Documentary
-https://qmcconnect.qa/api/stream/ajd/01.m3u8
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1,Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1,Asharq Documentary
