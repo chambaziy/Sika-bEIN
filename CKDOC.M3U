@@ -119,8 +119,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951490/hls/playlist.m3u8?includeAss
 https://d2irko5f9gt1c5.cloudfront.net/10008/99951195/hls/playlist.m3u8?ads.xumo_channelId=99951195&ads.csid=xumo_desktopweb_PBSNature_ssai&ads._fw_app_bundle=&ads.ifa_type=dpid&ads.did=aa4bfb4e-b999-2c60-d256-db87f4a5920e&ads._fw_is_lat=1&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_app_store_url=&ads._fw_content_category=IAB16&ads.xumo_contentName=PBSNature&ads.xumo_providerName=PBSNature&ads._fw_content_language=en&ads.assetId=XMYXMFY05OZX85&ads._fw_content_genre=Animals%2CNature&ads.xumo_providerId=3849&ads._fw_content_rating=TV-PG&ads.channelId=99951195&ads.xumo_platform=desktopweb&ads.site_id=22453&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
 #EXTINF:-1,TV5 MONDE voyage
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=11074&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.tv5monde.live&app_store_url=https%3A%2F%2Fhtml5.tv5monde.com%2F&app_domain=tv5monde.com&app_name=TV5MONDE&custom_targeting=html5&delivery_partner=tv5mondeplus&custom_4=tv5mondeplus&player_height=720&player_width=1280&content_channel=TV5MONDE&content_network=TV5MONDE&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=tv5monde.com&content_dist_name=tv5mondeplus&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=0&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&country=dz&country_region=b%c3%a9ja%c3%afa&postal_code=06000&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=tv5mondeplus&custom_param_5=html5
-#EXTINF:-1,TV5 MONDE orient
-http://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
-
+#EXTINF:-1,HR germany
+https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
 
 
