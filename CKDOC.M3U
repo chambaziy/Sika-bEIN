@@ -121,5 +121,7 @@ https://d2irko5f9gt1c5.cloudfront.net/10008/99951195/hls/playlist.m3u8?ads.xumo_
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=11074&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.tv5monde.live&app_store_url=https%3A%2F%2Fhtml5.tv5monde.com%2F&app_domain=tv5monde.com&app_name=TV5MONDE&custom_targeting=html5&delivery_partner=tv5mondeplus&custom_4=tv5mondeplus&player_height=720&player_width=1280&content_channel=TV5MONDE&content_network=TV5MONDE&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=tv5monde.com&content_dist_name=tv5mondeplus&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=0&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&country=dz&country_region=b%c3%a9ja%c3%afa&postal_code=06000&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=tv5mondeplus&custom_param_5=html5
 #EXTINF:-1,HR germany
 https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
-
-
+#EXTINF:-1,NDR germany
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1,Tagesschau 24
+https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
