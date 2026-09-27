@@ -133,4 +133,5 @@ https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 https://tvcdnpotok.com/601/index.m3u8?wmsAuthSign=5bdcfd6b3d079ff95081c149328fe7d4-1790542867-112i95i642i451
 #EXTINF:-1,Discovery ru
 https://tvcdnpotok.com/520/index.m3u8?wmsAuthSign=1f3d0d5b74b403bf38b6e42131877cab-1790542569-112i95i642i451
-
+#EXTINF:-1,Animal planet en
+https://cache0.wonvt.st/live/0u3zo0p031ic0b12s5nn2/master.m3u8
