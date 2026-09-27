@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=VLC/3.0.12 LibVLC/3.0.12
 #EXTINF:-1,Al Arabiya Programs
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1,Al Jazeera Documentary
@@ -119,6 +118,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951490/hls/playlist.m3u8?includeAss
 #EXTINF:-1,PBS NATURE
 https://d2irko5f9gt1c5.cloudfront.net/10008/99951195/hls/playlist.m3u8?ads.xumo_channelId=99951195&ads.csid=xumo_desktopweb_PBSNature_ssai&ads._fw_app_bundle=&ads.ifa_type=dpid&ads.did=aa4bfb4e-b999-2c60-d256-db87f4a5920e&ads._fw_is_lat=1&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_app_store_url=&ads._fw_content_category=IAB16&ads.xumo_contentName=PBSNature&ads.xumo_providerName=PBSNature&ads._fw_content_language=en&ads.assetId=XMYXMFY05OZX85&ads._fw_content_genre=Animals%2CNature&ads.xumo_providerId=3849&ads._fw_content_rating=TV-PG&ads.channelId=99951195&ads.xumo_platform=desktopweb&ads.site_id=22453&ads.site_name=XumoPlay&ads.site_page=play.xumo.com
 #EXTINF:-1,TV5 MONDE ORIENT
+#KODIPROP:http.user_agent=VLC/3.0.12 LibVLC/3.0.12
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
 
 
