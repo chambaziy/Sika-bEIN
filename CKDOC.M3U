@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,NAT GEO AD
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/national_geo_dash_enc/index.m3u8
 #EXTINF:-1,Al Arabiya Programs
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1,Al Jazeera Documentary
@@ -131,6 +129,8 @@ https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8?channel_name=Popular%20Science&content_genre=Entertainment&ic=IAB1-7&rating=PG&language=US&coppa=0&content_livestream=1&us_privacy=1NYN&gdpr=0&gdpr_consent=0&cb=179053394323180&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F109.0.0.0%20Safari%2F537.36&ip=154.246.59.211&dnt=1&app_name=Documentary%2B&app_bundle=docplus.com&app_store_url=&ifa_type=dpid&did=91909be75a3c3bf891bbac2b08effdd8&lmt=1
 #EXTINF:-1,ARTE germany
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1,NAT GEO ru
+https://tvcdnpotok.com/umJrzH4F0hYl4ePJ2-89CQ/601/1790558314/index.m3u8
 
 
 
