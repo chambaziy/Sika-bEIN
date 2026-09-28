@@ -630,3 +630,28 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999208
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/anamorphic-logo/400x200/dw_logo400x200_white_1.png",990 DW
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16653&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_fr&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1&preroll_duration=30&preroll=1
 
+
+#EXTINF:-1 group-title="SIKA RELAX",RELAX 1
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+#EXTINF:-1 group-title="SIKA RELAX",RELAX 2
+http://iptv.prosto.tv:7000/ch327/video.m3u8
+#EXTINF:-1 group-title="SIKA RELAX",RELAX 3
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+#EXTINF:-1 group-title="SIKA RELAX",RELAX 4
+http://iptv.prosto.tv:7000/ch335/video.m3u8
+#EXTINF:-1 group-title="SIKA RELAX",RELAX 5
+http://iptv.prosto.tv:7000/ch336/video.m3u8
+#EXTINF:-1 group-title="SIKA RELAX",RELAX 6
+http://iptv.prosto.tv:7000/ch337/video.m3u8
+#EXTINF:-1 group-title="SIKA RELAX",RELAX 7
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+#EXTINF:-1 group-title="SIKA RELAX",RELAX 8
+http://iptv.prosto.tv:7000/ch339/video.m3u8
+#EXTINF:-1 group-title="SIKA RELAX",RELAX 9
+http://iptv.prosto.tv:7000/ch340/video.m3u8
+#EXTINF:-1 group-title="SIKA RELAX",RELAX 10
+http://iptv.prosto.tv:7000/ch341/video.m3u8
+#EXTINF:-1 group-title="SIKA RELAX",RELAX 11
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+#EXTINF:-1 group-title="SIKA RELAX",RELAX 12
+http://iptv.prosto.tv:7000/ch329/video.m3u8
