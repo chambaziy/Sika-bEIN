@@ -91,6 +91,18 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951490/hls/playlist.m3u8?includeAss
 https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=11074&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=dpid&app_bundle=com.tv5monde.live&app_store_url=https%3A%2F%2Fhtml5.tv5monde.com%2F&app_domain=tv5monde.com&app_name=TV5MONDE&custom_targeting=html5&delivery_partner=tv5mondeplus&custom_4=tv5mondeplus&player_height=720&player_width=1280&content_channel=TV5MONDE&content_network=TV5MONDE&content_language=en&content_cat=IAB1-5%2CIAB1-7&partner_domain=tv5monde.com&content_dist_name=tv5mondeplus&device_make=&device_model=&device_os=html5&device_language=en&preferred_language=EN&gdpr=0&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&country=dz&country_region=b%c3%a9ja%c3%afa&postal_code=06000&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=tv5mondeplus&custom_param_5=html5
 #EXTINF:-1,Animaux fr
 http://151.80.18.177:86/Animaux/index.m3u8
+#EXTINF:-1,National_Geo fr
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1,Histoire fr
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1,ARTE fr
+http://151.80.18.177:86/ARTE_HD/index.m3u8
+#EXTINF:-1,Discovery fr
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1,vosges fr
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1,VOYAGE+ fr
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
 #EXTINF:-1,HR germany
 https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
 #EXTINF:-1,NDR germany
@@ -101,3 +113,9 @@ https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8?channel_name=Popular%20Science&content_genre=Entertainment&ic=IAB1-7&rating=PG&language=US&coppa=0&content_livestream=1&us_privacy=1NYN&gdpr=0&gdpr_consent=0&cb=179053394323180&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F109.0.0.0%20Safari%2F537.36&ip=154.246.59.211&dnt=1&app_name=Documentary%2B&app_bundle=docplus.com&app_store_url=&ifa_type=dpid&did=91909be75a3c3bf891bbac2b08effdd8&lmt=1
 #EXTINF:-1,ARTE germany
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1,365 days tv
+http://stream.mcquack.net/70/index.m3u8
+
+
+
+
