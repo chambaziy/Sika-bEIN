@@ -113,8 +113,23 @@ https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8?channel_name=Popular%20Science&content_genre=Entertainment&ic=IAB1-7&rating=PG&language=US&coppa=0&content_livestream=1&us_privacy=1NYN&gdpr=0&gdpr_consent=0&cb=179053394323180&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F109.0.0.0%20Safari%2F537.36&ip=154.246.59.211&dnt=1&app_name=Documentary%2B&app_bundle=docplus.com&app_store_url=&ifa_type=dpid&did=91909be75a3c3bf891bbac2b08effdd8&lmt=1
 #EXTINF:-1,ARTE germany
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1,autentic history
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 #EXTINF:-1,365 days tv
 http://stream.mcquack.net/70/index.m3u8
+#EXTINF:-1,adventure earth
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1,bloomberg
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1,cctv-weapon & technology
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1,cgtn documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+
+
+
+
 
 
 
