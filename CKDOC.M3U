@@ -274,6 +274,20 @@ https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="TvMonaco" tvg-logo="https://cdn.prod.website-files.com/66b2141a9bb474b60eaef76d/6a74ad356257268c8bd8202e_66b603f06728a3a30dfe682c_watch-tnt-outside-us.jpeg" group-title="TNT",TCM CANADA
 https://teleculturelle.vedge.infomaniak.com/livecast/teleculturelle/master.m3u8
+#EXTINF:-1,Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1,Documentary+ International
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+#EXTINF:-1,Cap Terre
+https://amg01821-amg01821c10-rlaxx-gb-10460.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvfast-lovetheplanetfr-rlaxxgb/playlist.m3u8
+#EXTINF:-1,Tv5 Monde&Voyage
+https://api-ott.tv5monde.com/loggingmediaurlpassthrough/a.m3u8?avod=1&app_name=%7B%7BappName%7D%7D&app_bundle=%7B%7BappPackage%7D%7D&device_width=%7B%7BplayerWidth%7D%7D&device_height=%7B%7BplayerHeight%7D%7D&tld=%7B%7BAppDomain%7D%7D&content_cat=%7B%7BAppCat%7D%7D&app_version=%7B%7BAppVersion%7D%7D&app_store_url=%7B%7BAppStoreUrl%7D%7D&did=%7B%7BDID%7D%7D&dnt=%7B%7BDNT%7D%7D&coppa=%7B%7BCoppa%7D%7D&us_privacy=%7B%7BUsPrivacy%7D%7D&gdpr=%7B%7BGdpr%7D%7D&gdpr_consent=%7B%7BGdprConsent%7D%7D&cb=API_randomCB&device_type=tv&device_make=%7B%7BDeviceMake%7D%7D&device_model=%7B%7BDeviceModel%7D%7D&device_os=%7B%7BoperatingSystem%7D%7D&language=%7B%7Blanguage%7D%7D&partner=tcl_tv_plus&livestream=1&connection=wifi&version=12.5&id=172&platform=html5&slated_vod=0&streaming_format=hls&vid=a.m3u8
+#EXTINF:-1,Go Wild
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814580/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814580&ads.xumo_streamId=88814580&declaredCC1Language=en&ads.caid=GoWild&ads.csid=tcl2_us_indigeniusgowild_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Documentary&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=1103&ads.xumo_contentName=GoWild&ads.xumo_providerId=1103&ads.xumo_providerName=Indigenius&ads.xumo_channelName=GoWild&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+#EXTINF:-1,TV Konflikte
+https://323acc9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9TcGllZ2VsVFZLb25mbGlrdGVfSExT/playlist.m3u8
+
+
 
 
 
