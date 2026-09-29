@@ -23,6 +23,8 @@ https://fast.kwikmotion.com/roya/big_world/playlist.m3u8
 https://fast.kwikmotion.com/roya/documentaries/playlist.m3u8
 #EXTINF:-1,ROYA TV ARROUND WORLD
 https://fast.kwikmotion.com/roya/around_the_world/playlist/kmfast_2.m3u8
+#EXTINF:-1,ROYA TV MOJTAMA
+https://fast.kwikmotion.com/roya/mojtama3y/playlist.m3u8
 #EXTINF:-1,Rt Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1,KTV Documentry
@@ -286,6 +288,44 @@ https://api-ott.tv5monde.com/loggingmediaurlpassthrough/a.m3u8?avod=1&app_name=%
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814580/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814580&ads.xumo_streamId=88814580&declaredCC1Language=en&ads.caid=GoWild&ads.csid=tcl2_us_indigeniusgowild_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Documentary&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=1103&ads.xumo_contentName=GoWild&ads.xumo_providerId=1103&ads.xumo_providerName=Indigenius&ads.xumo_channelName=GoWild&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 #EXTINF:-1,TV Konflikte
 https://323acc9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9TcGllZ2VsVFZLb25mbGlrdGVfSExT/playlist.m3u8
+#EXTINF:-1,CGTN FRANÇAIS
+https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
+#EXTINF:-1,INA 70s
+https://fast-rakuten.okast.tv/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8?bpkio_serviceid=fa2e8c4385712f9af3e719ec904b3543
+#EXTINF:-1,TECH_&_CO
+https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055bd2f1574d94862544
+#EXTINF:-1,POPCORN
+http://dyc8bdiow0oz1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qique82ecf5q8/85ac8883-2de0-4285-8f27-9d97857c45ad/0.m3u8
+#EXTINF:-1,TV5MONDE+ CHEFS
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1,RMC_WOW
+https://d225rs9gbjxb5j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bdlabwqcrqc2n/RMC_Wow_FR.m3u8
+#EXTINF:-1,RMC_Alerte_Secours
+https://d18py9aevgxe9g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7m4nvp688td5a/RMC_alerte_secours_FR.m3u8
+#EXTINF:-1,SOCIETY PLUS
+https://societypluslachaine-channel-dash.vodfactorychannels.com/v1/channel/SocietyPRODHLS/index.m3u8?bpkio_serviceid=ba9a56ce0a9bfa26d1cc84078c4800d7
+#EXTINF:-1,MY ZEN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1,SCREAM IN
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1,BFM ALPES
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
+#EXTINF:-1,IL TV
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+#EXTINF:-1,NA TV
+https://edge11.vedge.infomaniak.com/livecast/ik:naradio/manifest.m3u8
+#EXTINF:-1,TV8 MONTBLANC
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/tv8mb.m3u8
+#EXTINF:-1,ANGERS TÉLÉ
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/angers.m3u8
+#EXTINF:-1,ESPACE TV [GUINÉE]
+https://edge11.vedge.infomaniak.com/livecast/espacetv/manifest.m3u8
+#EXTINF:-1,ARISTANIS TV
+https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
+#EXTINF:-1,PERSIANA SCIENCE
+https://scihls.persiana.live/hls/stream.m3u8
+
+
 
 
 
