@@ -356,8 +356,8 @@ http://iptv.prosto.tv:7000/ch330/video.m3u8
 #EXTINF:-1 group-title="SIKA RELAX",RELAX 12
 http://iptv.prosto.tv:7000/ch329/video.m3u8
 
-
-
+#EXTINF:-1 group-title="SIKA RELAX",CHASSE&PECHE
+http://xp1.tv:80/play/live.php?mac=00:1A:79:FC:8F:7D&stream=1430&extension=ts
 
 
 
