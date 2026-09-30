@@ -336,6 +336,23 @@ https://phd2hls.persiana.live/hls/stream.m3u8
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1,viaTelePaese
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+#EXTINF:-1,ROTV Valencia
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+
+#EXTINF:-1 group-title="🌍 Documentários / Cultura",Alone By History
+https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="🌍 Documentários / Cultura",RT Documentary English
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+#EXTINF:-1 group-title="🌍 Documentários / Cultura",True History 
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="📰 Notícias",BBC Top Gear
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+
+#EXTINF:-1 group-title="📰 Notícias",BBC Top Gear Germany
+https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
 
 
 
